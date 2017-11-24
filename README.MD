@@ -1,7 +1,9 @@
-#Docker Handson 
+# Docker Handson 
 
-Exercise #1: http://blogs.karthikeyanvk.in/2017/11/how-to-run-net-core-app-using-docker.html
+Exercise #1: http://bit.ly/2iscWRU
 
-Exercise #2: http://blogs.karthikeyanvk.in/2017/11/how-to-run-angular-app-in-docker.html
+Exercise #2: http://bit.ly/2A3irNX
 
-Exercise #3: http://blogs.karthikeyanvk.in/2017/11/how-to-run-multiple-container-using.html
+Exercise #3: http://bit.ly/2jjMl6A
+
+Common Errors & frequent error in docker setup: http://bit.ly/2A6uPgN
