@@ -1,6 +1,6 @@
 # Docker Handson 
 
-Exercise #1: http://bit.ly/2iscWRU
+Exercise #1: http://bit.ly/2zl5Hix
 
 Exercise #2: http://bit.ly/2A3irNX
 
